@@ -1,0 +1,9 @@
+{
+  "name": "Scan to Safe",
+  "short_name": "Scan to Safe",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f3",
+  "theme_color": "#e9f2ed",
+  "description": "Accessible product expiry tracker"
+}
